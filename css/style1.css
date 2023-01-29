@@ -92,7 +92,6 @@ li a.active, li a:hover{
   ul{
       position: fixed;
       width: 300px;
-      height: 30vh;
       background: #797ff2;
       top: 50px;
       left: -100%;
